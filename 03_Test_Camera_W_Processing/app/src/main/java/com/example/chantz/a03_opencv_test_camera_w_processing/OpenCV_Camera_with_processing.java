@@ -104,7 +104,7 @@ public class OpenCV_Camera_with_processing extends Activity implements CvCameraV
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
     }
 
-    // Create the options menu which allows slection of image process.
+    // Create the options menu which allows selection of image process.
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         Log.i(TAG, "Called onCreateOptionsMenu");
