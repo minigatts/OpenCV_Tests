@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Jan 25 12:18:09 CST 2017
+1.base=C\:\\X-Learning_Code\\Android\\OpenCV_Tests\\06_face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\X-Learning_Code\\Android\\OpenCV_Tests\\06_face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.file=C\:\\X-Learning_Code\\Android\\OpenCV_Tests\\06_face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\lbpcascade_frontalface.xml
+4.set=ANDROID_RESOURCE
+2.base=C\:\\X-Learning_Code\\Android\\OpenCV_Tests\\06_face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\X-Learning_Code\\Android\\OpenCV_Tests\\06_face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\X-Learning_Code\\Android\\OpenCV_Tests\\06_face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\X-Learning_Code\\Android\\OpenCV_Tests\\06_face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\X-Learning_Code\\Android\\OpenCV_Tests\\06_face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\face_detect_surface_view.xml
+0.file=C\:\\X-Learning_Code\\Android\\OpenCV_Tests\\06_face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.base=C\:\\X-Learning_Code\\Android\\OpenCV_Tests\\06_face-detection\\openCVSamplefacedetection\\build\\intermediates\\res\\resources-debug.ap_
